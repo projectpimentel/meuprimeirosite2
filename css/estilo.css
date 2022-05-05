@@ -1,10 +1,10 @@
 body{
-    background-color: 	#8B0000;
+    background-color: 	#726262;
 }
 
 .container{
 
-      width: 80%;
+      width: 70%;
       margin: auto;
 
 }
@@ -14,7 +14,7 @@ h1{
 }
 
 img{
-    width: 60%;
+    width: 50%;
 }
 
 figure{
