@@ -1,5 +1,5 @@
 body{
-    background-color: 	#801515;
+    background-color: 	#0f0849;
 }
 
 .container{
@@ -11,6 +11,8 @@ body{
 
 h1{
        text-align: center;
+       font-size: 1cm;
+       color: aliceblue;
 }
 
 img{
@@ -21,4 +23,31 @@ figure{
 
       text-align: center;
 }
+h2{
+    font-size: 1cm;
+    text-align: center;
+    color: aliceblue;
+}
 
+p{
+    font-size: 1EM;
+    font-family: Arial;
+    color: aliceblue;
+}
+
+.itens_menu li{
+    text-align: center;
+    font-size: 1.3em;
+
+}
+footer{
+    text-align: center;
+    background-color: crimson;
+    color: aliceblue;
+}
+footer{
+    background-color: rgba(22, 10, 6, 0.3);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 2%;
+}
