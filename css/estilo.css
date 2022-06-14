@@ -62,7 +62,7 @@ p{
     font-family: Verdana;
     color: silver;
     margin-top: 2%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 }
 
 .itens_menu li{
@@ -114,4 +114,10 @@ a:link {
         width: 500px;
        
 
+      }
+      .olimpiadas{
+        float: right;
+        margin: 2%;
+        width: 250px;
+      
       }
