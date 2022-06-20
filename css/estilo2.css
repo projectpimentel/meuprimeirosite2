@@ -1,14 +1,82 @@
 body{
-    background-image: url(https://i.pinimg.com/originals/58/28/8d/58288dc858e6fb1088a6fc2098025f78.jpg);
+    background-image: url(https://images.ctfassets.net/3mv54pzvptwz/8T8GYiZUPRA9eWjVNOBdW/a8af36e9e92506401f0c3faead04cb47/SITE_NJR_POSTER_BG_7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    text-align: justify;
 
 }
 h1{
     text-align: center;
-    font-size: 1cm;
-    color: black;
-    font-family: Lucida;
+    font-size: 1.2cm;
+    color: aliceblue;
+    font-family: "Lucida Console";
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+    
+    
+}
+p{
+    font-size: 1.8EM;
+    font-family: Verdana;
+    color: rgb(236, 236, 236);
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 4%;
+    margin-right: 4%;
 
 }
+figure{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+  
+
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    
+    
+}
+.center{
+    text-align: center;
+}
+
+
+.voltar{
+    text-align: center;
+    font-size: 1.8em;
+}
+a:link {
+
+    color: silver;
+
+}
+
+ a:visited {
+    color: silver;
+  }
+  
+
+  a:hover {
+    color: silver;
+
+  }
+  
+  a:active {
+    color: silver;
+
+  }
+  a:link, a:visited {
+    background-color: #223a7e;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+
+
